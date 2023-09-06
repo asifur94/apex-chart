@@ -33,8 +33,8 @@ After import database you will get the charts.
 ## Contact:
 If you have any issues, please contact me by sending message:
 
-1. Facebook: [https://facebook.](https://www.facebook.com/insomniacafe/)
-2. Email: [https://email.](contact@insomniacafe.org)
+1. Facebook: [https://facebook.com/insomniacafe.org](https://www.facebook.com/insomniacafe.org/)
+2. Email: [contact@insomniacafe.org](contact@insomniacafe.org)
 
 
 ## License
